@@ -1,6 +1,4 @@
-<!-- <img src=""> -->
-
-<img align="right" alt="Coding" width="400" src=https://giphy.com/embed/qgQUggAC3Pfv687qPC>
+<img align="right" alt="Coding" width="300" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parag7720&label=Profile%20views&color=0e75b6&style=flat" alt="parag7720" /> </p>
 
 - 🎓Computer Science Undergraduate at MANIT Bhopal
